@@ -19,7 +19,7 @@
  the easiest way to run is to run 'run.py' file
 
 ## OUTPUT
- Upon completion of the run an output folder with the name of the star will be created.
+ Upon completion of the run an output folder with the name of the star will be created.//
  it contains a csv file containing all the necessary information about the fitting. 
 
 
