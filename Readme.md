@@ -1,6 +1,6 @@
 ## MODULES
 # extract_sdbgrid 
- the medule extracts the grid from zipped sdB Grid to a folder sdb_grid.
+ the module extracts the grid from zipped sdB Grid to a folder sdb_grid.
  read the read me fies inside the module to know about the setup.  
 # seismicfit_parallel
  the module fits the input frequency combinations with th eoriginal SdB Grid
