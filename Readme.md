@@ -3,7 +3,7 @@
  the module extracts the grid from zipped sdB Grid to a folder sdb_grid.
  read the read me fies inside the module to know about the setup.  
 # seismicfit_parallel
- the module fits the input frequency combinations with th eoriginal SdB Grid
+ the module fits the input frequency combinations with the original SdB Grid
 # grid_search.py 
  It does single runs on a specific input_frequency combination using the extracted grid information
 # grid_search_parallel.py
