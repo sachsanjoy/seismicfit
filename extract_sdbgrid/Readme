@@ -1,0 +1,12 @@
+# Run run.py file to create the grid extract.
+# make sure to update the original sdb-grid path
+# Use input_ini.py file to change the necessary parameters
+# I have already run the grid_extract from the main sdb-grid.
+# presented for future refrences, in case if we need to update the grid extract with a new parameter.
+# modify this grid_extract.py to do so.
+# change the input paramters for the run.
+# Could use the hyper threading True in input_ini.py file
+# Adjust the threading size based on memory and disk space
+# default threading 10 => requires 200+ GB temporary space ; 20 ==> 400+ GB
+# the necessary files will be extracted to sdb_grid folder inside the program directory.
+# a csv file with all the additional paramters from the model is created in the program directory under name sdbgrid_extract.csv
